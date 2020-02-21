@@ -1,5 +1,5 @@
 # AuOC
-Augmentation On Coordinates provides a away to make image changing functions based on coordinates
+Augmentation On Coordinates provides a away to make image changing functions based on coordinates and also manual by hand for fine adjusting. 
 
 # Files to choose from:
 
